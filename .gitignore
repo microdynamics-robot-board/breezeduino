@@ -1,47 +1,14 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-*.bin
-
-# Debug files
-*.dSYM/
-*.su
-
-# Others
-*.crf
-*.htm
-*.dep
-*.axf
-*.d
-*.lnp
-*.sct
-*.map
-*.lst
-*.abcd
-*.swp
+*.csv
+*.epf
+*.dri
+*.gpi
+*.GBL
+*.GBO
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.TXT
+*.b#*
